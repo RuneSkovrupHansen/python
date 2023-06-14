@@ -3,7 +3,7 @@ import zipfile
 import os
 
 
-def check_zip_files(zip_path="example.zip"):
+def check_zip_files(zip_path="tempfile_example/example.zip"):
 
     required_files = ["file1.txt", "file2.txt", "file3.txt"]
 
